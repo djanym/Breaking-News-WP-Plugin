@@ -1,0 +1,150 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Breaking News\n"
+"POT-Creation-Date: 2018-05-31 02:23+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: \n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: admin/class-cron-actions.php:33
+msgid "Every Five Seconds"
+msgstr ""
+
+#: admin/class-metabox.php:38
+msgid "Breaking News Options"
+msgstr ""
+
+#: admin/class-metabox.php:65
+msgid "Make this post breaking news:"
+msgstr ""
+
+#: admin/class-metabox.php:69
+msgid "Custom title (leave empty to use default post title):"
+msgstr ""
+
+#: admin/class-metabox.php:73
+msgid "Set expiration date:"
+msgstr ""
+
+#: admin/class-metabox.php:76
+msgid "Click to choose date"
+msgstr ""
+
+#: admin/class-metabox.php:113
+msgid ""
+"Breaking news expiration date field is incorrect. Please choose a date."
+msgstr ""
+
+#: admin/class-metabox.php:138
+msgctxt "Time picker"
+msgid "Time"
+msgstr ""
+
+#: admin/class-metabox.php:139
+msgctxt "Time picker"
+msgid "Hours"
+msgstr ""
+
+#: admin/class-metabox.php:140
+msgctxt "Time picker"
+msgid "Minutes"
+msgstr ""
+
+#: admin/class-metabox.php:141
+msgctxt "Time picker"
+msgid "Seconds"
+msgstr ""
+
+#: admin/class-metabox.php:142
+msgctxt "Time picker"
+msgid "Now"
+msgstr ""
+
+#: admin/class-metabox.php:143
+msgctxt "Time picker"
+msgid "Close"
+msgstr ""
+
+#: admin/class-options-page.php:32 admin/class-options-page.php:40
+msgid "Breaking News options"
+msgstr ""
+
+#: admin/class-options-page.php:32
+msgid "Breaking News"
+msgstr ""
+
+#: admin/class-options-page.php:50
+msgid "Current Breaking News post"
+msgstr ""
+
+#: admin/class-options-page.php:61
+msgid "Post title"
+msgstr ""
+
+#: admin/class-options-page.php:63
+msgid "Edit post"
+msgstr ""
+
+#: admin/class-options-page.php:69
+msgid "Custom post title to display"
+msgstr ""
+
+#: admin/class-options-page.php:76
+msgid "Expiration date"
+msgstr ""
+
+#: admin/class-options-page.php:84
+msgid "There is no active breaking news post"
+msgstr ""
+
+#: admin/class-options-page.php:97
+msgid "Breaking News area title"
+msgstr ""
+
+#: admin/class-options-page.php:101
+msgid "e.g. \"Breaking news\""
+msgstr ""
+
+#: admin/class-options-page.php:104
+msgid "Title text color"
+msgstr ""
+
+#: admin/class-options-page.php:110
+msgid "Text background color"
+msgstr ""
+
+#: admin/class-options-page.php:116
+msgid "Automatically insert breaking news container"
+msgstr ""
+
+#: admin/class-options-page.php:120
+msgid ""
+"If there is <header> tag in the template, then it will be automatically "
+"inserted at the bottom of this tag. If it's not working or you want it in "
+"another place then you can uncheck this option and manually insert this "
+"code in the template file: <?php echo do_shortcode('[breaking_news]'); ?>"
+msgstr ""
+
+#: admin/class-options-page.php:180
+msgid "Breaking news"
+msgstr ""
